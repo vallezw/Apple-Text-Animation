@@ -1,3 +1,5 @@
+# Demo
+[Click here](https://vallezw.github.io/Apple-Text-Animation/) to see the demo
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
